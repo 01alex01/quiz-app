@@ -40,3 +40,25 @@ body {
     color: #001e4d;
     font-weight: 600;
 }
+
+.btn {
+    background: #fff;
+    color: #222;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: 400;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.btn:hover {
+    background: #222;
+    color: #fff;
+}
